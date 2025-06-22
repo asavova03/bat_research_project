@@ -1,0 +1,24 @@
+# Environments
+.venv
+env
+__pychache__
+
+# Database stuff
+barbastella_barbastellus
+denoised
+diagrams
+downloads
+encoded
+*_segments
+rhinolophus_affinis
+rhinolophus_pearsonii
+
+#CSV files
+*.csv
+detailed*
+
+# Training code example
+ExampleEncDec
+
+# Random
+kernels_15040.jld2
